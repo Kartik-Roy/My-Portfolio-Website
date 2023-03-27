@@ -9,4 +9,4 @@ This website lists :
 4. My qualifications.
 5. Contact details.
 
-You can visit this page by clicking [here](https://kartik-roy.github.io/My-Portfolio-Website/)
+You can visit this page by clicking [here](https://kartik-roy.github.io/My-Portfolio-Website/).
