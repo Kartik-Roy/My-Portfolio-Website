@@ -479,6 +479,10 @@ span {
     animation: mysql 1s linear forwards;
 }
 
+.mongodb {
+    animation: mongodb 1s linear forwards;
+}
+
 @keyframes java{
     100%{
         width: 90%;
@@ -523,7 +527,7 @@ span {
 
 @keyframes reactjs{
     100%{
-        width: 65%;
+        width: 80%;
     }
 }
 
@@ -536,6 +540,12 @@ span {
 @keyframes mysql{
     100%{
         width: 85%;
+    }
+}
+
+@keyframes mongodb{
+    100%{
+        width: 66%;
     }
 }
 
